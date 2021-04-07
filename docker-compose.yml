@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  moderncpp:
+    image: moderncpp
+    build:
+      context: .
+      dockerfile: ./Dockerfile

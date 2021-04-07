@@ -1,0 +1,1 @@
+/usr/local/bin/c++     CMakeFiles/moderncpp.dir/main.cpp.o  -o moderncpp 
